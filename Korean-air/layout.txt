@@ -1,0 +1,16 @@
+header
+    top-menu (검정 부분)
+    nav
+
+banner
+    reservation-form (예약하는 구간)
+    
+    
+
+contents
+ 
+
+
+
+footer
+
