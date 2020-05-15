@@ -1,17 +1,17 @@
-header
-    .top-head (검정 부분)
+header : 102px
+    .top-head (검정 부분) : 40px
     .head
 
-banner
+banner : 637px
     .reservation-form (예약하는 구간)
     
     
 
-contents
+contents : 1067px
     .first-row
     .second-row
  
 
 
 
-footer
+footer : 426px
