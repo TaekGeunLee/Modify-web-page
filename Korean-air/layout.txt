@@ -1,17 +1,17 @@
 header
-    top-menu (검정 부분)
-    nav
+    .top-head (검정 부분)
+    .head
 
 banner
-    reservation-form (예약하는 구간)
+    .reservation-form (예약하는 구간)
     
     
 
 contents
+    .first-row
+    .second-row
  
 
 
 
 footer
-
-ss
