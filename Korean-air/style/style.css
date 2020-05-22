@@ -1,15 +1,21 @@
 *
 {
     margin: 0;
-    padding: 0; 
+    padding: 0;
+    list-style: none;
 }
-a {color: none; text-decoration: none;}
+a {color: inherit; text-decoration: none;}
 
 header 
 {
     height: 102px;
 }
-.top_head {height: 40px;}
+.top_head {height: 40px; color: #fff; background: #434343;}
+.top_head li {float: left; margin: 0 15px;}
+.top_head_right {float: right;}
+
+.head_wrap>nav {float: right;}
+.head_wrap>nav li {float: left; margin: 0 15px;}
 
 .banner 
 {
