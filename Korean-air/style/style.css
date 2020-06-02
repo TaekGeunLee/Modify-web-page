@@ -12,10 +12,23 @@ header
 }
 .top_head {height: 40px; color: #fff; background: #434343;}
 .top_head li {float: left; margin: 0 15px;}
-.top_head_right {float: right;}
+.top_head_left {width: 275px;}
+.top_head_right {width: 480px; padding-bottom: px; float: right;}
+.top_head_right>ul, p {float: left;}
 
-.head_wrap>nav {float: right;}
-.head_wrap>nav li {float: left; margin: 0 15px;}
+.head_wrap>.logo 
+{
+    width: 300px; float: left;
+}
+.head_wrap>.logo img {padding: 15px;}
+.head_wrap>nav {width: 690px; float: right;}
+.head_wrap>nav li 
+{
+    width: 140px; float: left;
+    padding: 15px;
+    text-align: center;
+}
+
 
 .banner 
 {
