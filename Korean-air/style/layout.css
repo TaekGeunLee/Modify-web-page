@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "맑은 고딕";
+}
+a {color: inherit; text-decoration: none;}
+
+header {min-width: 1000px;}
+.header-top {height: 38px;}
+.top-left {width: 273px; height: 100%; float: left;}
+.top-right {width: 467px; height: 100%; float: right;}
+
+.header-bottom {height: 64px;}
+.logo {width: 270px; height: 100%; float: left;}
+.nav {width: 729px; height: 100%; float: right;}
+
+.contents {height: 1704px;}
+.con_contanier {min-width: 713px; margin: 0 10%;}
+
+.banner {height: 637px; background: red;}
+.banner-wrap {height: 368px}
+.banner-text {width: 713px; height: 261px}
+.banner-ctl 
+{
+    float: right;
+    width: 349px; height: 107px;
+    margin-left: 100%;
+}
+
+.products {height: 1067px; background: gold;}
+
+footer {height: 426px;}
