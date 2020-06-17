@@ -1,12 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-family: "맑은 고딕";
-}
-a {color: inherit; text-decoration: none;}
-
-header {min-width: 1000px;}
+header {min-width: 1000px; background: lightblue;}
 .header-top {height: 38px;}
 .top-left {width: 273px; height: 100%; float: left;}
 .top-right {width: 467px; height: 100%; float: right;}
@@ -29,5 +21,26 @@ header {min-width: 1000px;}
 }
 
 .products {height: 1067px; background: gold;}
+.products-wrap {position: relative; top: 56px;}
+.products-row 
+{
+    margin-bottom: 56px;
+    height: 379px;
+}
+.products-row>h2 
+{
+    height: 49px; margin-bottom: 18px;
+    font-size: 28px; 
+}
+.products-row-list {height: 313px;}
 
-footer {height: 426px;}
+footer {height: 426px; background: navy;}
+.footer-contanier {height: 100%; margin: 0 10%;}
+.footer-wrap 
+{
+    position: relative; top: 15%;
+    height: 300px;
+    margin: 0 88px;
+}
+.footer-upper {height: 172px; background: green;}
+.footer-lower {height: 128px; background: hotpink;}

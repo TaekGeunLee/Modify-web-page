@@ -1,6 +1,7 @@
 .banner {height: 300px; background-color: crimson;}
 .events {height: 1600px; background-color: gold;}
-.event_div:first-child {position: relative; top: 5%;}
+/*.event_div:first-child {position: relative; top: 5%;}*/
+
 .event_div 
 {
     position: relative; top: 5%;
